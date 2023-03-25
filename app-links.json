@@ -1,10 +1,9 @@
 {
   "applinks": {
-    "apps": [],
-    "details": [
+    "apps": [
       {
         "appID": "com.example.andhadhunapp",
-        "paths": ["/*"]
+        "paths": [ "/try1/*" ]
       }
     ]
   }
